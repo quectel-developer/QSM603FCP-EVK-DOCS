@@ -212,7 +212,7 @@ ls ~/MTK-MT8371/mt8371_ubuntu_bu01_v25.1.1/bin/mtk-mt8371/
 
 #### 步骤 1：安装烧录工具
 
-1. 联系 Quectel 获取 `android_usb_110_64_1228.exe` 并执行安装（USB 驱动）。
+1. 从仓库 `tools/`目录下，获取`android_usb_110_64_1228.exe` 并执行安装（USB 驱动）。
 2. 从 https://www.python.org/downloads/ 下载并安装 Python 3.12.x。
 3. 安装 MTK 烧录工具 genio-tools：
 
