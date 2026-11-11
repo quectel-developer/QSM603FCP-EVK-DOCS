@@ -1,12 +1,13 @@
 # QSM603FCP EVK Linux 开发指南
 
- [![Document Version](https://img.shields.io/badge/docs-v1.0.1-blue)]() [![Status](https://img.shields.io/badge/status-stable-green)]() [![Platform](https://img.shields.io/badge/platform-Linux-orange)]() 
+ [![Document Version](https://img.shields.io/badge/docs-v1.0.1-blue)]() [![Status](https://img.shields.io/badge/status-stable-green)]() [![Platform](https://img.shields.io/badge/platform-Linux-orange)]() [![Platform](https://img.shields.io/badge/platform-Ubuntu-blue)]() 
+
 
 > **适用硬件：** Quectel QSM603FCP EVK
 >
 > **最后更新：** 2026-10-28
 >
-> **适用对象：** Linux BSP / 驱动 / 应用开发人员
+> **适用对象：** Ubuntu/Linux BSP / 驱动 / 应用开发人员
 >
 > **核心内容：** 快速上手 · 系统镜像下载 · 镜像烧录 · 功能验证
 
@@ -50,7 +51,7 @@
 
 ### 基本信息
 
-QSM603FCP EVK 是基于 MTK MT8371 应用处理器设计的评估开发平台，用于验证 Linux BSP、显示、多媒体、无线连接、工业控制及边缘 AI 应用开发。
+QSM603FCP EVK 是基于 MTK MT8371 应用处理器设计的评估开发平台，用于验证 Ubuntu/Linux BSP、显示、多媒体、无线连接、工业控制及边缘 AI 应用开发。
 
 开发板集成 Quectel QSM603FCP 核心模组，支持 Wi-Fi、Bluetooth、以太网、USB、HDMI/LVDS 显示等外设接口，可满足工业 HMI、智能网关、边缘计算、视频分析及 IoT 终端等应用场景的开发需求。
 
